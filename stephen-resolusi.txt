@@ -1,0 +1,5 @@
+Halo , salam kenal nama saya Stephen dari Malang
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript
+- Bekerja
